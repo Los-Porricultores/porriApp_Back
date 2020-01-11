@@ -1,0 +1,108 @@
+/*****************************************************************************/
+PLANIFICACION
+Descripción: Los archivos y recursos se encuentran ordenados por orden de
+lectura. Es una sugerencia simplemente y tomando que se empieza desde 0 sin
+ningún conocimiento sobre desarrollo con python y enfocado a mobile.
+
+Si creeis que podríamos añadir o modificar tanto el recurso como el orden
+preguntad y si lo vemos todos adecuado lo cambiamos.
+
+Otra tema importante es el entorno de desarrollo, ya que para estos lenguajes
+que tienen "ocultas" tantas automatizaciónes por detrás es bastante relevante
+la configuración del mismo. Creo que lo mejor es utilizar visual studio code, 
+por que es de lo que más he encontrado tutoriales y, por tanto, hay más documen-
+tación. Las instalaciones de python, django, y resto de requisitos de desarrollo
+vienen descritas en muchos de los enlaces que hay. Ahora mismo esto no es muy
+relevante en esta fase de aprendizaje, pero si lo será cuando nos pongamos con la aplicación.
+Lo más importante es que no lieis al ordenador con instalaciones multiples de
+versiones de python, django etc. Tratad de informaros primero y emplead siempre
+entornos virtuales de python.
+Cuando vayamos a ponernos con la aplicación os diré como configuraremos el entorno
+para que sea común para todos. Ya he visto alguna forma de hacerlo pero me queda
+solucionar esa parte. 
+
+Nota: Obviad las faltas ortográficas si hay alguna, lo estoy redactando con el
+bloc de notas, LOL. 
+/*****************************************************************************/
+
+______________________________________________________________________________
+1. Python
+
+El aprendizaje de python es bastante sencillo sabiendo cualquier otro lenguaje, 
+en lo que se refiere a la sintaxis. La cosa es un poco más complicada cuando se 
+empiezan a mezclar conceptos con entornos virtuales, paquetes, etc.
+
+Titulo: Curso Python desde 0.
+Descripción: Este tío tiene cursos muy interesantes en muchos lenguajes, va desde
+0 con la sintaxis y da conceptos de lenguajes orientados a objetos. Un poco largo, 
+aunque se puede hacer en un fin de semana facilmente si se sabe programar previamente.
+
+	https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
+
+Titulo: Learn Python in 10 minutes.
+Descripción: Más que un tutorial es una referencia rápida del lenguaje, por si quereis
+aprender más sobre la marcha y no poneros con el tutorial anterior.
+
+	https://www.stavros.io/tutorials/python/
+_______________________________________________________________________________
+
+2. Django
+
+Para esta parte tendremos que extrapolar los tutoriales a nuestro caso de estudio, ya
+que hay algunos que son para web, o para mezclarse con otros tipos de frameworks, etc.
+
+Titulo: Django Official Tutorial
+Descripción: Es el típico tutorial de inicio de cualquier lenguaje de programación 
+que suele basarse más en enseñarte las características que en explicar algo.
+¿Por que lo pongo primero? Por que viendo otros tutoriales me he dado cuenta que
+necesitas primero haber hecho algun tutorial de inicio de este tipo para que entiendas
+al menos de manera aproximada de que te hablan en los tutoriales que se encuentran 
+enfocados más a nuestro objetivo. Tras una breve descripción está el tutorial.
+
+Si no sabeis como configurar inicialmente el proyecto para el tutorial podeis ver los 
+10 primeros minutos del tutorial "Django and React Tutorial // 1 - Creating a 
+Fullstack Application" y os quedará más claro como se hace.
+
+	https://docs.djangoproject.com/en/3.0/intro/overview/
+
+Titulo: Django Rest Framework Tutorial
+Descripcion: este ya va más enfocado a lo que nosotros necesitamos, empezamos por
+el quickstart y luego al tutorial que está dividido en 6 secciones. 
+
+	https://www.django-rest-framework.org/tutorial/quickstart/
+
+Titulo: Django and React Tutorial // 1 - Creating a Fullstack Application
+Descripción:
+
+	https://www.youtube.com/watch?v=uZgRbnIsgrA&list=FLZeHWirMt8y6FYOlg9ISk8g&index=2&t=0s
+
+Titulo: Create Instagram Like App in Python Django
+Descripcion: Este tutorial es lo más similar que he encontrado hasta ahora de lo que vamos a 
+necesitar hacer. Mas que nada por que emplea herramientas de entornos virtuales, servidores y
+cosas muy interesantes para poder programar todos con un entorno común. Para poder hacer 
+este tutorial podeis loguearos con vuestra cuenta normal de hotmail o cualquiera de las que 
+te dejan utilizar dandoles los permisos que os piden.
+
+	https://www.education-ecosystem.com/tylersavery/R0kJ7-create-instagram-like-app-in-python-django/z1G44-creating-an-instagram-service-in-django/
+_______________________________________________________________________________
+
+//TODO: Faltaría por definir un poco mejor el tema de servidor y la comunicación de este.
+Como se hace el deploy de la aplicación en este tipo de entornos, por que aún no se muy bien
+como funciona. 
+
+_______________________________________________________________________________
+
+Una vez hayamos realizado lo anterior podremos hacer la configuración del entorno que utilizaremos
+tanto para el desarrollo como posteriormente para producción.
+
+[MANDATORY] 
+/*Enlaces de paginas que deberías tener siempre abiertas mientras programais.*/
+
+https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str //Referencia del lenguaje python.
+https://docs.djangoproject.com/en/3.0/ref/ //Referencia del framework django.
+https://www.django-rest-framework.org/ //Documentación y referencia de Django-Rest-Framework.
+
+[RECURSOS UTILES]
+https://docs.python.org/3/
+https://virtualenv.pypa.io/en/latest/
+
