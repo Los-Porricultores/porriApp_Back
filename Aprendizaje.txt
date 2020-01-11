@@ -96,11 +96,12 @@ Una vez hayamos realizado lo anterior podremos hacer la configuración del entor
 tanto para el desarrollo como posteriormente para producción.
 
 [MANDATORY] 
-/*Enlaces de paginas que deberías tener siempre abiertas mientras programais.*/
+/*Enlaces de paginas que deberías tener siempre abiertas mientras programais y veis los tutoriales.*/
 
 https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str //Referencia del lenguaje python.
 https://docs.djangoproject.com/en/3.0/ref/ //Referencia del framework django.
 https://www.django-rest-framework.org/ //Documentación y referencia de Django-Rest-Framework.
+https://code.visualstudio.com/docs //Documentación sobre visual studio code
 
 [RECURSOS UTILES]
 https://docs.python.org/3/
