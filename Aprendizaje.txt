@@ -25,6 +25,11 @@ Nota: Obviad las faltas ortográficas si hay alguna, lo estoy redactando con el
 bloc de notas, LOL. 
 /*****************************************************************************/
 
+Antes de comenzar sería muy interesante que pudierais echarle un vistazo al
+enlace que hay al final de este documento de visual studio code, ya que mas que 
+documentación es una especie de referencia/tutorial y os ayudará mucho para los 
+tutoriales que hagais.No hace falta que mireis la información de otros lenguajes 
+tan solo los apartados generales y los referidos a python.
 ______________________________________________________________________________
 1. Python
 
